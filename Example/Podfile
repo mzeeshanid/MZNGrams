@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MZNGrams_Example', :exclusive => true do
+  pod 'MZNGrams', :path => '../'
+end
+
+target 'MZNGrams_Tests', :exclusive => true do
+  pod 'MZNGrams', :path => '../'
+
+  
+end
