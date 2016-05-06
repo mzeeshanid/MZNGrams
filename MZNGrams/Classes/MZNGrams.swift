@@ -49,3 +49,9 @@ public class MZNGrams: NSObject {
         return ngrams
     }
 }
+
+/*
+let contentLength: Int = string.characters.count
+let doneContentLength = range.startIndex.distanceTo(substringRange.startIndex)
+progressUpdate?(progress: Float(doneContentLength) / Float(contentLength))
+*/
