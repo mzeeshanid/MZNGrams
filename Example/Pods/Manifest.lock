@@ -1,0 +1,14 @@
+PODS:
+  - MZNGrams (0.1.0)
+
+DEPENDENCIES:
+  - MZNGrams (from `../`)
+
+EXTERNAL SOURCES:
+  MZNGrams:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MZNGrams: d1cccce4c38e10952b98e4a00910b985735c7403
+
+COCOAPODS: 0.39.0

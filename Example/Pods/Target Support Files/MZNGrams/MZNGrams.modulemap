@@ -1,0 +1,6 @@
+framework module MZNGrams {
+  umbrella header "MZNGrams-umbrella.h"
+
+  export *
+  module * { export * }
+}

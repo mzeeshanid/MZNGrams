@@ -1,6 +1,6 @@
 # MZNGrams
 
-[![CI Status](http://img.shields.io/travis/Muhammad Zeeshan/MZNGrams.svg?style=flat)](https://travis-ci.org/Muhammad Zeeshan/MZNGrams)
+[![CI Status](http://img.shields.io/travis/mzeeshanid/MZNGrams.svg?style=flat)](https://travis-ci.org/Muhammad Zeeshan/MZNGrams)
 [![Version](https://img.shields.io/cocoapods/v/MZNGrams.svg?style=flat)](http://cocoapods.org/pods/MZNGrams)
 [![License](https://img.shields.io/cocoapods/l/MZNGrams.svg?style=flat)](http://cocoapods.org/pods/MZNGrams)
 [![Platform](https://img.shields.io/cocoapods/p/MZNGrams.svg?style=flat)](http://cocoapods.org/pods/MZNGrams)
